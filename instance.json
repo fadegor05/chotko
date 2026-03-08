@@ -19,6 +19,17 @@
           "from": "",
           "file": "fabric-api-0.92.2+1.20.1.jar",
           "url": ""
+        },
+        {
+          "name": "Sodium",
+          "image_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+          "type": "both",
+          "mod_id": "sodium",
+          "file_id": "mc1.21.11-0.8.6-neoforge",
+          "source": "modrinth",
+          "from": "",
+          "file": "sodium-neoforge-0.8.6+mc1.21.11.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/ZK3jHJgK/sodium-neoforge-0.8.6%2Bmc1.21.11.jar"
         }
       ]
     }
